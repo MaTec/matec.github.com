@@ -4,7 +4,7 @@
   <title><![CDATA[MaTech's Blog]]></title>
   <link href="http://MaTec.github.io/atom.xml" rel="self"/>
   <link href="http://MaTec.github.io/"/>
-  <updated>2013-10-12T23:49:46+08:00</updated>
+  <updated>2013-10-13T00:02:29+08:00</updated>
   <id>http://MaTec.github.io/</id>
   <author>
     <name><![CDATA[wnma]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[how-to-install-octopress]]></title>
+    <link href="http://MaTec.github.io/blog/2013/10/12/how-to-install-octopress/"/>
+    <updated>2013-10-12T23:53:00+08:00</updated>
+    <id>http://MaTec.github.io/blog/2013/10/12/how-to-install-octopress</id>
+    <content type="html"><![CDATA[<h1>第一次使用Markdown</h1>
+
+<h2>just test</h2>
+
+<p><em>坚持</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[first post]]></title>
